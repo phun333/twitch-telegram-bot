@@ -98,3 +98,14 @@ If the bot encounters errors:
 - Use tools like screen or tmux to keep the bot running in background
 - Notifications are sent only once when stream starts
 - Bot will wait 60 seconds and retry on errors
+
+## Contributing
+
+We welcome contributions to improve this project! Feel free to:
+
+- Report bugs
+- Suggest new features
+- Submit pull requests
+- Improve documentation
+
+Your contributions will help make this bot even better. Thank you for your interest in the project!
