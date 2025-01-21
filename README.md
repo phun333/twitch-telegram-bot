@@ -1,6 +1,6 @@
 # Twitch Stream Notification Bot
 
-This bot monitors your specified Twitch streamer and sends notifications to your Telegram when they go live.
+This bot monitors your specified Twitch streamer and sends notifications to your Telegram when they go live
 
 ## Features
 
